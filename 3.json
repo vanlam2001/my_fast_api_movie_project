@@ -1,0 +1,27 @@
+{
+  
+  
+    "thongTinPhim": {
+      "maLichChieu": 44241,
+      "tenCumRap": "GLX - Huỳnh Tấn Phát",
+      "tenRap": "Rạp 8",
+      "diaChi": "1362 Huỳnh Tấn Phát, KP1, Phú Mỹ, Q. 7",
+      "tenPhim": "Lat mat 48h1234",
+      "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/lat-mat-48h123_gp01.jpg",
+      "ngayChieu": "23/09/2021",
+      "gioChieu": "05:09"
+    },
+    "danhSachGhe": [
+      {
+        "maGhe": 94921,
+        "tenGhe": "01",
+        "maRap": 748,
+        "loaiGhe": "Thuong",
+        "stt": "01",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      }
+    ]
+  
+}

@@ -1,0 +1,66 @@
+[
+    {
+      "lstCumRap": [
+        {
+          "danhSachPhim": [
+            {
+              "lstLichChieuTheoPhim": [
+                {
+                  "maLichChieu": 0,
+                  "maRap": "string",
+                  "tenRap": "string",
+                  "ngayKhoiChieu": "string",
+                  "giaVe": 0
+                }
+              ],
+              "maPhim": 0,
+              "tenPhim": "string",
+              "hinhAnh": "string",
+              "hot": true,
+              "dangChieu": true,
+              "sapChieu": true
+            }
+          ],
+          "maCumRap": "string",
+          "tenCumRap": "string",
+          "hinhAnh": "string",
+          "diaChi": "string"
+        }
+      ],
+      "maHeThongRap": "string",
+      "tenHeThongRap": "string",
+      "logo": "string"
+    },
+    {
+      "lstCumRap": [
+        {
+          "danhSachPhim": [
+            {
+              "lstLichChieuTheoPhim": [
+                {
+                  "maLichChieu": 44241,
+                  "maRap": "749",
+                  "tenRap": "Rạp 9",
+                  "ngayKhoiChieu": "2021-09-23T05:05:06",
+                  "giaVe": 100000
+                }
+              ],
+              "maPhim": 1283,
+              "tenPhim": "Lat mat 48h1234",
+              "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/lat-mat-48h123_gp01.jpg",
+              "hot": true,
+              "dangChieu": true,
+              "sapChieu": true
+            }
+          ],
+          "maCumRap": "glx-trung-chanh",
+          "tenCumRap": "GLX - Trung Chánh",
+          "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+          "diaChi": "TTVH Q12 – 09, Q L 22, Trung Mỹ Tây , Q.12"
+        }
+      ],
+      "maHeThongRap": "Galaxy",
+      "tenHeThongRap": "Galaxy Cinema",
+      "logo": "https://movienew.cybersoft.edu.vn/hinhanh/galaxy-cinema.png"
+    }
+  ]

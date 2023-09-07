@@ -1,15 +1,15 @@
 from pydantic import BaseModel
 from typing import List
 
-class LichChieuTheoPhimBase(BaseModel):
+class LichChieuItem(BaseModel):
     maLichChieu: int
     maRap: str
     tenRap: str
     ngayKhoiChieu: str
     giaVe: int
 
-class PhimBase(BaseModel):
-    lstLichChieuTheoPhim: List[LichChieuTheoPhimBase]
+class PhimItem(BaseModel):
+    lstLichChieuTheoPhim: List[LichChieuItem]
     maPhim: int
     tenPhim: str
     hinhAnh: str
@@ -17,18 +17,15 @@ class PhimBase(BaseModel):
     dangChieu: bool
     sapChieu: bool
 
-class CumRapBase(BaseModel):
-    danhSachPhim: List[PhimBase]
+class CumRapItem(BaseModel):
+    danhSachPhim: List[PhimItem]
     maCumRap: str
     tenCumRap: str
     hinhAnh: str
     diaChi: str
 
-class HeThongRapBase(BaseModel):
-    lstCumRap: List[CumRapBase]
+class MovieRap(BaseModel):
+    lstCumRap: List[CumRapItem]
     maHeThongRap: str
     tenHeThongRap: str
     logo: str
-
-class HeThongRapCreate(HeThongRapBase):
-    pass

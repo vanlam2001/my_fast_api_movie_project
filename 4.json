@@ -1,0 +1,4959 @@
+{
+    "statusCode": 200,
+    "message": "Xử lý thành công!",
+    "content": [
+      {
+        "lstCumRap": [
+          {
+            "danhSachPhim": [
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 44241,
+                    "maRap": "748",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2021-09-23T05:05:06",
+                    "giaVe": 100000
+                  }
+                ],
+                "maPhim": 1283,
+                "tenPhim": "Lat mat 48h1234",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/lat-mat-48h123_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 43967,
+                    "maRap": "745",
+                    "tenRap": "Rạp 5",
+                    "ngayChieuGioChieu": "2021-05-01T12:59:12",
+                    "giaVe": 150000
+                  }
+                ],
+                "maPhim": 1359,
+                "tenPhim": "AudioPhile",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/audiophile-43_gp01.jpg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 40289,
+                    "maRap": "748",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2020-04-04T12:15:18",
+                    "giaVe": 80000
+                  }
+                ],
+                "maPhim": 1374,
+                "tenPhim": "Wrath Of Man - 2",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/wrath-of-man-2_gp01.jpeg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 43146,
+                    "maRap": "745",
+                    "tenRap": "Rạp 5",
+                    "ngayChieuGioChieu": "2021-06-19T10:26:18",
+                    "giaVe": 99000
+                  }
+                ],
+                "maPhim": 1434,
+                "tenPhim": "Counter Strike 5",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/counter-strike-5_gp01.jpg",
+                "hot": true,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 40298,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2020-04-07T16:05:00",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 2603,
+                "tenPhim": "Minion",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/minion_gp01.jpg",
+                "hot": true,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 40624,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2020-11-06T11:32:00",
+                    "giaVe": 120000
+                  }
+                ],
+                "maPhim": 4428,
+                "tenPhim": "Sky Toura 4 kkkk",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/sky-toura-4-kkkk_gp00.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 41332,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2021-01-05T23:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41333,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2021-01-06T23:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41334,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2021-01-07T23:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41335,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2021-01-08T23:00:00",
+                    "giaVe": 80000
+                  }
+                ],
+                "maPhim": 4956,
+                "tenPhim": "Wanted",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/wanted_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 41122,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2020-12-27T19:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41123,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2020-12-28T19:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41124,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2020-12-29T19:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41125,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2020-12-30T19:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41126,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2020-12-31T19:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41402,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2021-01-08T20:30:00",
+                    "giaVe": 80000
+                  }
+                ],
+                "maPhim": 4972,
+                "tenPhim": "Bác sĩ Dolittle",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/bac-si-dolittle_gp01.jpg",
+                "hot": true,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 41117,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2020-12-31T19:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41118,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2020-12-30T19:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41119,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2020-12-29T19:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41120,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2020-12-28T19:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41121,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2020-12-27T19:00:00",
+                    "giaVe": 80000
+                  }
+                ],
+                "maPhim": 4987,
+                "tenPhim": "Hobbs and Shaw",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/hobbs-and-shaww_gp01.jpg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 41397,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2021-01-08T21:30:00",
+                    "giaVe": 80000
+                  }
+                ],
+                "maPhim": 5029,
+                "tenPhim": "Wonder Woman 19871",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/wonder-woman-1986_gp01.jfif",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 41016,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2020-12-27T23:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41017,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2020-12-28T23:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41018,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2020-12-29T23:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41019,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2020-12-30T23:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41020,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2020-12-31T23:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41799,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2021-02-22T08:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41800,
+                    "maRap": "742",
+                    "tenRap": "Rạp 2",
+                    "ngayChieuGioChieu": "2021-02-22T10:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41801,
+                    "maRap": "743",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2021-02-22T14:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41802,
+                    "maRap": "744",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2021-02-22T20:00:00",
+                    "giaVe": 80000
+                  }
+                ],
+                "maPhim": 5031,
+                "tenPhim": "The Croods: New Ag",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/the-croods-new-ag1_gp01.jpeg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 41011,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2020-12-27T23:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41012,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2020-12-28T23:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41013,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2020-12-29T23:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41014,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2020-12-30T23:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41015,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2020-12-31T23:00:00",
+                    "giaVe": 80000
+                  }
+                ],
+                "maPhim": 5032,
+                "tenPhim": "Cuộc Chiến Hủy Diệt - Skylines 2",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/cuoc-chien-huy-diet-skylines_gp01.jpg",
+                "hot": true,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 41939,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2021-02-22T08:00:00",
+                    "giaVe": 120000
+                  },
+                  {
+                    "maLichChieu": 41940,
+                    "maRap": "744",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2021-02-22T16:00:00",
+                    "giaVe": 120000
+                  },
+                  {
+                    "maLichChieu": 41941,
+                    "maRap": "746",
+                    "tenRap": "Rạp 6",
+                    "ngayChieuGioChieu": "2021-02-22T20:00:00",
+                    "giaVe": 120000
+                  },
+                  {
+                    "maLichChieu": 41967,
+                    "maRap": "742",
+                    "tenRap": "Rạp 2",
+                    "ngayChieuGioChieu": "2021-02-23T08:00:00",
+                    "giaVe": 120000
+                  },
+                  {
+                    "maLichChieu": 42001,
+                    "maRap": "743",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2021-02-25T10:00:00",
+                    "giaVe": 120000
+                  },
+                  {
+                    "maLichChieu": 42002,
+                    "maRap": "744",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2021-02-25T16:00:00",
+                    "giaVe": 120000
+                  },
+                  {
+                    "maLichChieu": 42003,
+                    "maRap": "746",
+                    "tenRap": "Rạp 6",
+                    "ngayChieuGioChieu": "2021-02-25T20:00:00",
+                    "giaVe": 120000
+                  },
+                  {
+                    "maLichChieu": 41968,
+                    "maRap": "744",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2021-02-23T16:00:00",
+                    "giaVe": 120000
+                  },
+                  {
+                    "maLichChieu": 42000,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2021-02-25T08:00:00",
+                    "giaVe": 120000
+                  }
+                ],
+                "maPhim": 5044,
+                "tenPhim": "Birds of Prey: Cuộc lột xác huy hoàng của Harley Quinn",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/birds-of-prey-cuoc-lot-xac-huy-hoang-cua-harley-quinn_gp01.jpeg",
+                "hot": false,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 41889,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2021-02-22T08:45:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41890,
+                    "maRap": "743",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2021-02-22T10:45:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41891,
+                    "maRap": "745",
+                    "tenRap": "Rạp 5",
+                    "ngayChieuGioChieu": "2021-02-22T12:45:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41892,
+                    "maRap": "747",
+                    "tenRap": "Rạp 7",
+                    "ngayChieuGioChieu": "2021-02-22T23:45:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 42354,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2021-03-22T16:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 42355,
+                    "maRap": "743",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2021-03-22T23:00:00",
+                    "giaVe": 80000
+                  }
+                ],
+                "maPhim": 5104,
+                "tenPhim": "How To Train Your Dragon",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/how-to-train-your-dragon_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 41378,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2021-01-08T20:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41838,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2021-02-23T07:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41839,
+                    "maRap": "743",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2021-02-23T09:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41840,
+                    "maRap": "744",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2021-02-23T15:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41841,
+                    "maRap": "745",
+                    "tenRap": "Rạp 5",
+                    "ngayChieuGioChieu": "2021-02-23T23:00:00",
+                    "giaVe": 80000
+                  }
+                ],
+                "maPhim": 5125,
+                "tenPhim": "Người Cần Quên Phải Nhớ 23",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/nguoi-can-quen-phai-nho_gp01.png",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 44069,
+                    "maRap": "744",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2021-12-12T00:00:00",
+                    "giaVe": 120000
+                  }
+                ],
+                "maPhim": 5200,
+                "tenPhim": "Võ Sinh Đại Chiến",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/vo-sinh-dai-chien_gp01.png",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 42417,
+                    "maRap": "745",
+                    "tenRap": "Rạp 5",
+                    "ngayChieuGioChieu": "2021-03-30T12:05:30",
+                    "giaVe": 100000
+                  }
+                ],
+                "maPhim": 6019,
+                "tenPhim": "palm spring",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/palm-spring_gp01.jpg",
+                "hot": true,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 42444,
+                    "maRap": "745",
+                    "tenRap": "Rạp 5",
+                    "ngayChieuGioChieu": "2022-04-30T05:10:15",
+                    "giaVe": 85000
+                  }
+                ],
+                "maPhim": 6023,
+                "tenPhim": "Justice Luege",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/justice-luege_gp01.jpg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 43894,
+                    "maRap": "741",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2020-10-20T19:19:19",
+                    "giaVe": 200000
+                  }
+                ],
+                "maPhim": 7673,
+                "tenPhim": "Ác quỷ Dracula- Huyền thoại chưa kể",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/ac-quy-dracula-huyen-thoai-chua-ke_gp01.jpeg",
+                "hot": null,
+                "dangChieu": null,
+                "sapChieu": null
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 44452,
+                    "maRap": "748",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2021-10-18T11:45:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 44453,
+                    "maRap": "742",
+                    "tenRap": "Rạp 2",
+                    "ngayChieuGioChieu": "2021-10-18T23:30:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 44456,
+                    "maRap": "750",
+                    "tenRap": "Rạp 10",
+                    "ngayChieuGioChieu": "2021-10-13T16:05:00",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 8225,
+                "tenPhim": "The Boss Baby: Back in Business – Season 3",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/the-boss-baby-back-in-business-–-season-3_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 44407,
+                    "maRap": "749",
+                    "tenRap": "Rạp 9",
+                    "ngayChieuGioChieu": "2021-09-10T10:15:00",
+                    "giaVe": 200000
+                  }
+                ],
+                "maPhim": 8233,
+                "tenPhim": "Conan Movie Loki",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/conan-movie-loki_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 44597,
+                    "maRap": "744",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2021-12-30T06:45:00",
+                    "giaVe": 110000
+                  }
+                ],
+                "maPhim": 8657,
+                "tenPhim": "RUSH HOUR 123",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/rush-hour-123_gp01.png",
+                "hot": true,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 44657,
+                    "maRap": "743",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2022-01-14T00:30:00",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 8717,
+                "tenPhim": "Succession NEW 123123",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/succession-new-33333_gp01.jpeg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 45069,
+                    "maRap": "746",
+                    "tenRap": "Rạp 6",
+                    "ngayChieuGioChieu": "2022-07-16T12:00:00",
+                    "giaVe": 200000
+                  },
+                  {
+                    "maLichChieu": 45078,
+                    "maRap": "746",
+                    "tenRap": "Rạp 6",
+                    "ngayChieuGioChieu": "2022-07-08T10:10:00",
+                    "giaVe": 90000
+                  }
+                ],
+                "maPhim": 8909,
+                "tenPhim": "JURASSIC WORLD DOMINION  ",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/jurassic-world-dominion_gp01.jpg",
+                "hot": false,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 45574,
+                    "maRap": "744",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2022-10-14T13:10:20",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 10490,
+                "tenPhim": "Lion King – Vua sư tử (1994)",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/lion-king-–-vua-su-tu-1994-_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 46012,
+                    "maRap": "742",
+                    "tenRap": "Rạp 2",
+                    "ngayChieuGioChieu": "2040-11-28T01:56:56",
+                    "giaVe": 90000
+                  }
+                ],
+                "maPhim": 10744,
+                "tenPhim": "KẺ ĐỘC HÀNH",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/ke-doc-hanh_gp01.jpg",
+                "hot": false,
+                "dangChieu": false,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 46588,
+                    "maRap": "750",
+                    "tenRap": "Rạp 10",
+                    "ngayChieuGioChieu": "2023-03-17T11:52:19",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 11888,
+                "tenPhim": "Đội Quân Đạo tặc 7777",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/doi-quan-dao-tac_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": false
+              }
+            ],
+            "maCumRap": "glx-huynh-tan-phat",
+            "tenCumRap": "GLX - Huỳnh Tấn Phát",
+            "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+            "diaChi": "1362 Huỳnh Tấn Phát, KP1, Phú Mỹ, Q. 7"
+          },
+          {
+            "danhSachPhim": [
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 41477,
+                    "maRap": "759",
+                    "tenRap": "Rạp 9",
+                    "ngayChieuGioChieu": "2021-01-12T10:19:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 42269,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2021-03-17T15:16:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 42271,
+                    "maRap": "759",
+                    "tenRap": "Rạp 9",
+                    "ngayChieuGioChieu": "2021-03-17T13:18:00",
+                    "giaVe": 80000
+                  }
+                ],
+                "maPhim": 1314,
+                "tenPhim": "Black Windo",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/black-windo_gp01.jpg",
+                "hot": false,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 42137,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2021-03-20T10:20:00",
+                    "giaVe": 80000
+                  }
+                ],
+                "maPhim": 1329,
+                "tenPhim": "Bố Già",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/bo-gia_gp01.jpg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 31537,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-01T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31538,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-01T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31539,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-01T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31540,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-01T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31541,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-01T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31542,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-01T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31585,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-09T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31586,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-09T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31587,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-09T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31588,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-09T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31589,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-09T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31590,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-09T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31579,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-08T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31580,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-08T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31581,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-08T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31582,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-08T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31583,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-08T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31584,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-08T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31573,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-07T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31574,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-07T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31575,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-07T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31576,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-07T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31577,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-07T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31578,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-07T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31567,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-06T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31568,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-06T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31569,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-06T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31570,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-06T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31571,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-06T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31572,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-06T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31561,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-05T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31562,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-05T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31563,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-05T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31564,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-05T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31565,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-05T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31566,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-05T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31555,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-04T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31556,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-04T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31557,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-04T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31558,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-04T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31559,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-04T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31560,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-04T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31549,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-03T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31550,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-03T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31551,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-03T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31552,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-03T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31553,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-03T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31554,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-03T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31543,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-02T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31544,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-02T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31545,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-02T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31546,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-02T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31547,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-02T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 31548,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-02T20:10:00",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 1344,
+                "tenPhim": "Avenger Endgame 2",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/avenger-endgame_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 42270,
+                    "maRap": "754",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2021-03-17T17:17:00",
+                    "giaVe": 80000
+                  }
+                ],
+                "maPhim": 1359,
+                "tenPhim": "AudioPhile",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/audiophile-43_gp01.jpg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 43047,
+                    "maRap": "754",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2021-05-29T17:57:55",
+                    "giaVe": 77000
+                  }
+                ],
+                "maPhim": 1374,
+                "tenPhim": "Wrath Of Man - 2",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/wrath-of-man-2_gp01.jpeg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 43897,
+                    "maRap": "759",
+                    "tenRap": "Rạp 9",
+                    "ngayChieuGioChieu": "2021-07-31T08:00:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 43898,
+                    "maRap": "754",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2021-07-31T20:30:00",
+                    "giaVe": 80000
+                  }
+                ],
+                "maPhim": 1539,
+                "tenPhim": "Angry Bird 2 ",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/angry-bird-2_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 43740,
+                    "maRap": "752",
+                    "tenRap": "Rạp 2",
+                    "ngayChieuGioChieu": "2021-07-31T15:15:00",
+                    "giaVe": 100000
+                  }
+                ],
+                "maPhim": 4329,
+                "tenPhim": "Thép đã tôi thê đấy 1  kkkk",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/thep-da-toi-the-day-1-kkkk_gp00.png",
+                "hot": false,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 40618,
+                    "maRap": "751",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2020-11-04T10:43:00",
+                    "giaVe": 76000
+                  },
+                  {
+                    "maLichChieu": 40619,
+                    "maRap": "752",
+                    "tenRap": "Rạp 2",
+                    "ngayChieuGioChieu": "2020-11-04T10:43:00",
+                    "giaVe": 76000
+                  }
+                ],
+                "maPhim": 4430,
+                "tenPhim": "Chị Mười Ba",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/chi-muoi-ba-1_gp01.jpg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 41806,
+                    "maRap": "754",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2021-02-22T20:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41803,
+                    "maRap": "751",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2021-02-22T08:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41804,
+                    "maRap": "752",
+                    "tenRap": "Rạp 2",
+                    "ngayChieuGioChieu": "2021-02-22T10:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41805,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2021-02-22T14:00:00",
+                    "giaVe": 80000
+                  }
+                ],
+                "maPhim": 5031,
+                "tenPhim": "The Croods: New Ag",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/the-croods-new-ag1_gp01.jpeg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 41942,
+                    "maRap": "751",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2021-02-22T16:00:00",
+                    "giaVe": 120000
+                  },
+                  {
+                    "maLichChieu": 41943,
+                    "maRap": "754",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2021-02-22T20:00:00",
+                    "giaVe": 120000
+                  },
+                  {
+                    "maLichChieu": 42007,
+                    "maRap": "757",
+                    "tenRap": "Rạp 7",
+                    "ngayChieuGioChieu": "2021-02-25T23:00:00",
+                    "giaVe": 120000
+                  },
+                  {
+                    "maLichChieu": 42004,
+                    "maRap": "751",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2021-02-25T08:00:00",
+                    "giaVe": 120000
+                  },
+                  {
+                    "maLichChieu": 42005,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2021-02-25T12:00:00",
+                    "giaVe": 120000
+                  },
+                  {
+                    "maLichChieu": 42006,
+                    "maRap": "755",
+                    "tenRap": "Rạp 5",
+                    "ngayChieuGioChieu": "2021-02-25T16:00:00",
+                    "giaVe": 120000
+                  },
+                  {
+                    "maLichChieu": 41969,
+                    "maRap": "751",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2021-02-23T16:00:00",
+                    "giaVe": 120000
+                  },
+                  {
+                    "maLichChieu": 41970,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2021-02-23T20:00:00",
+                    "giaVe": 120000
+                  }
+                ],
+                "maPhim": 5044,
+                "tenPhim": "Birds of Prey: Cuộc lột xác huy hoàng của Harley Quinn",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/birds-of-prey-cuoc-lot-xac-huy-hoang-cua-harley-quinn_gp01.jpeg",
+                "hot": false,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 41893,
+                    "maRap": "751",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2021-02-22T14:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41894,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2021-02-22T20:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41895,
+                    "maRap": "754",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2021-02-22T23:00:00",
+                    "giaVe": 80000
+                  }
+                ],
+                "maPhim": 5104,
+                "tenPhim": "How To Train Your Dragon",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/how-to-train-your-dragon_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 42090,
+                    "maRap": "757",
+                    "tenRap": "Rạp 7",
+                    "ngayChieuGioChieu": "2021-03-04T14:41:41",
+                    "giaVe": 100000
+                  }
+                ],
+                "maPhim": 5748,
+                "tenPhim": "Vợ ba",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/vo-ba_gp01.jpg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 42120,
+                    "maRap": "752",
+                    "tenRap": "Rạp 2",
+                    "ngayChieuGioChieu": "2021-03-13T08:55:11",
+                    "giaVe": 80000
+                  }
+                ],
+                "maPhim": 5914,
+                "tenPhim": "vvvvvtttt",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/vvvvvtttt_gp01.png",
+                "hot": null,
+                "dangChieu": null,
+                "sapChieu": null
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 46113,
+                    "maRap": "755",
+                    "tenRap": "Rạp 5",
+                    "ngayChieuGioChieu": "2022-12-12T12:00:00",
+                    "giaVe": 160000
+                  }
+                ],
+                "maPhim": 6288,
+                "tenPhim": "Conan: Bản Tình Ca Màu Đỏ ",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/conan-ban-tinh-ca-mau-do_gp01.jpeg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 43814,
+                    "maRap": "751",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2021-07-25T22:08:00",
+                    "giaVe": 100000
+                  }
+                ],
+                "maPhim": 7504,
+                "tenPhim": "Black Widow2",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/black-widow2_gp01.jpg",
+                "hot": false,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 43906,
+                    "maRap": "754",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2021-08-20T06:20:00",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 7669,
+                "tenPhim": "LỢN",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/lon_gp01.jpeg",
+                "hot": null,
+                "dangChieu": null,
+                "sapChieu": null
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 43904,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2021-08-07T03:18:00",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 7673,
+                "tenPhim": "Ác quỷ Dracula- Huyền thoại chưa kể",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/ac-quy-dracula-huyen-thoai-chua-ke_gp01.jpeg",
+                "hot": null,
+                "dangChieu": null,
+                "sapChieu": null
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 44515,
+                    "maRap": "752",
+                    "tenRap": "Rạp 2",
+                    "ngayChieuGioChieu": "2021-11-04T09:17:00",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 7822,
+                "tenPhim": "Wonder Woman 1",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/wonder-woman-2_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 44194,
+                    "maRap": "752",
+                    "tenRap": "Rạp 2",
+                    "ngayChieuGioChieu": "2021-08-24T11:59:57",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 8054,
+                "tenPhim": "Diệp Vấn",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/diep-van_gp01.jpg",
+                "hot": null,
+                "dangChieu": null,
+                "sapChieu": null
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 44196,
+                    "maRap": "754",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2021-08-23T11:57:21",
+                    "giaVe": 150000
+                  }
+                ],
+                "maPhim": 8101,
+                "tenPhim": "John Carter 123",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/john-carter_gp01.jpg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 44207,
+                    "maRap": "756",
+                    "tenRap": "Rạp 6",
+                    "ngayChieuGioChieu": "2021-08-24T11:46:25",
+                    "giaVe": 150000
+                  }
+                ],
+                "maPhim": 8130,
+                "tenPhim": "Bad Girl",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/bad-girl_gp01.jpg",
+                "hot": false,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 44567,
+                    "maRap": "754",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2021-12-03T04:52:00",
+                    "giaVe": 150000
+                  }
+                ],
+                "maPhim": 8567,
+                "tenPhim": "Shin Cậu Bé Bút Chì",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/shin-cau-be-but-chi_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 44726,
+                    "maRap": "755",
+                    "tenRap": "Rạp 5",
+                    "ngayChieuGioChieu": "2022-03-18T08:03:17",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 8572,
+                "tenPhim": "Red Snake Dangerous",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/red-snake-dangerous_gp01.jpg",
+                "hot": true,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 44624,
+                    "maRap": "756",
+                    "tenRap": "Rạp 6",
+                    "ngayChieuGioChieu": "2022-08-01T08:48:19",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 8681,
+                "tenPhim": "Mắt Mù ",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/mat-mu_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 45119,
+                    "maRap": "754",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2022-08-01T05:15:08",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 9184,
+                "tenPhim": "The Boys 18",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/the-boys-18_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 45376,
+                    "maRap": "753",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2022-09-16T08:41:50",
+                    "giaVe": 99000
+                  }
+                ],
+                "maPhim": 10000,
+                "tenPhim": "Minion",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/minion_gp01.png",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 45720,
+                    "maRap": "755",
+                    "tenRap": "Rạp 5",
+                    "ngayChieuGioChieu": "2022-11-22T12:22:11",
+                    "giaVe": 75001
+                  }
+                ],
+                "maPhim": 10729,
+                "tenPhim": "avatar 1111",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/avatar-1111_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 45776,
+                    "maRap": "760",
+                    "tenRap": "Rạp 10",
+                    "ngayChieuGioChieu": "2022-11-02T12:13:31",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 10774,
+                "tenPhim": "Chiến binh chính nghĩa",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/chien-binh-chinh-nghia_gp01.jpg",
+                "hot": false,
+                "dangChieu": false,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 46532,
+                    "maRap": "759",
+                    "tenRap": "Rạp 9",
+                    "ngayChieuGioChieu": "2023-03-01T09:09:09",
+                    "giaVe": 90000
+                  }
+                ],
+                "maPhim": 11795,
+                "tenPhim": "Đàm phán 4",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/dam-phan_gp01.jpg",
+                "hot": true,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 47110,
+                    "maRap": "751",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2023-08-11T02:38:05",
+                    "giaVe": 100000
+                  }
+                ],
+                "maPhim": 12726,
+                "tenPhim": "The Uncanny Counter 2",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/the-uncanny-counter-2_gp01.jpeg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": false
+              }
+            ],
+            "maCumRap": "glx-kinh-duong-vuong",
+            "tenCumRap": "GLX - Kinh Dương Vương",
+            "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+            "diaChi": "718bis Kinh Dương Vương, Q.6"
+          },
+          {
+            "danhSachPhim": [
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 42789,
+                    "maRap": "775",
+                    "tenRap": "Rạp 5",
+                    "ngayChieuGioChieu": "2021-04-22T18:44:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 43150,
+                    "maRap": "776",
+                    "tenRap": "Rạp 6",
+                    "ngayChieuGioChieu": "2021-06-19T15:40:33",
+                    "giaVe": 89000
+                  }
+                ],
+                "maPhim": 1314,
+                "tenPhim": "Black Windo",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/black-windo_gp01.jpg",
+                "hot": false,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 42854,
+                    "maRap": "771",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2021-04-30T21:05:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 42908,
+                    "maRap": "772",
+                    "tenRap": "Rạp 2",
+                    "ngayChieuGioChieu": "2021-04-30T22:05:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 42909,
+                    "maRap": "772",
+                    "tenRap": "Rạp 2",
+                    "ngayChieuGioChieu": "2021-05-20T10:05:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 42910,
+                    "maRap": "772",
+                    "tenRap": "Rạp 2",
+                    "ngayChieuGioChieu": "2021-05-21T10:05:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 42911,
+                    "maRap": "773",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2021-05-20T11:05:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 42912,
+                    "maRap": "774",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2021-05-20T12:05:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 42913,
+                    "maRap": "775",
+                    "tenRap": "Rạp 5",
+                    "ngayChieuGioChieu": "2021-05-20T13:05:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 42914,
+                    "maRap": "776",
+                    "tenRap": "Rạp 6",
+                    "ngayChieuGioChieu": "2021-05-20T13:05:00",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 1329,
+                "tenPhim": "Bố Già",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/bo-gia_gp01.jpg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 43953,
+                    "maRap": "775",
+                    "tenRap": "Rạp 5",
+                    "ngayChieuGioChieu": "2021-05-01T00:00:00",
+                    "giaVe": 150000
+                  }
+                ],
+                "maPhim": 1359,
+                "tenPhim": "AudioPhile",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/audiophile-43_gp01.jpg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 42915,
+                    "maRap": "775",
+                    "tenRap": "Rạp 5",
+                    "ngayChieuGioChieu": "2021-05-20T16:05:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 42916,
+                    "maRap": "776",
+                    "tenRap": "Rạp 6",
+                    "ngayChieuGioChieu": "2021-05-20T16:05:00",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 1389,
+                "tenPhim": " Thiên Cổ Quyết Trần 1",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/thien-co-quyet-tran-1_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 45606,
+                    "maRap": "780",
+                    "tenRap": "Rạp 10",
+                    "ngayChieuGioChieu": "2022-10-20T16:10:08",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 1438,
+                "tenPhim": "Mad Max Road",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/mad-max-rooaadd_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 42917,
+                    "maRap": "777",
+                    "tenRap": "Rạp 7",
+                    "ngayChieuGioChieu": "2021-05-20T17:05:00",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 1449,
+                "tenPhim": "True Detective 23",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/true-detective-23_gp01.jpg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 45584,
+                    "maRap": "779",
+                    "tenRap": "Rạp 9",
+                    "ngayChieuGioChieu": "2022-10-20T13:10:35",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 4328,
+                "tenPhim": "Chồng người ta",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/chong-nguoi-taa_gp01.jpg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 43741,
+                    "maRap": "775",
+                    "tenRap": "Rạp 5",
+                    "ngayChieuGioChieu": "2021-07-24T15:15:00",
+                    "giaVe": 100000
+                  }
+                ],
+                "maPhim": 4329,
+                "tenPhim": "Thép đã tôi thê đấy 1  kkkk",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/thep-da-toi-the-day-1-kkkk_gp00.png",
+                "hot": false,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 44179,
+                    "maRap": "776",
+                    "tenRap": "Rạp 6",
+                    "ngayChieuGioChieu": "2021-08-25T07:00:00",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 4428,
+                "tenPhim": "Sky Toura 4 kkkk",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/sky-toura-4-kkkk_gp00.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 42033,
+                    "maRap": "771",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2021-02-23T19:00:00",
+                    "giaVe": 90000
+                  },
+                  {
+                    "maLichChieu": 42034,
+                    "maRap": "773",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2021-02-23T23:00:00",
+                    "giaVe": 90000
+                  }
+                ],
+                "maPhim": 5104,
+                "tenPhim": "How To Train Your Dragon",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/how-to-train-your-dragon_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 42127,
+                    "maRap": "773",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2021-04-04T09:49:00",
+                    "giaVe": 90000
+                  }
+                ],
+                "maPhim": 5914,
+                "tenPhim": "vvvvvtttt",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/vvvvvtttt_gp01.png",
+                "hot": null,
+                "dangChieu": null,
+                "sapChieu": null
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 42434,
+                    "maRap": "774",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2021-03-18T17:53:00",
+                    "giaVe": 80000
+                  }
+                ],
+                "maPhim": 5984,
+                "tenPhim": "Duy Anh Đẹp Trai",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/duy-anh-dep-trai_gp01.JPG",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 43149,
+                    "maRap": "777",
+                    "tenRap": "Rạp 7",
+                    "ngayChieuGioChieu": "2021-06-16T04:24:00",
+                    "giaVe": 200000
+                  }
+                ],
+                "maPhim": 6644,
+                "tenPhim": "Hurricanger",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/hurricanger_gp01.jpg",
+                "hot": true,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 43745,
+                    "maRap": "774",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2021-07-14T16:23:32",
+                    "giaVe": 150000
+                  }
+                ],
+                "maPhim": 7320,
+                "tenPhim": "a",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/a_gp01.jpeg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 44230,
+                    "maRap": "779",
+                    "tenRap": "Rạp 9",
+                    "ngayChieuGioChieu": "2021-08-28T14:03:03",
+                    "giaVe": 150000
+                  }
+                ],
+                "maPhim": 8100,
+                "tenPhim": "300 chiến binh Hy Lạp",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/300-chien-binh-hy-lap_gp01.jpeg",
+                "hot": null,
+                "dangChieu": null,
+                "sapChieu": null
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 44615,
+                    "maRap": "774",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2021-12-31T01:01:16",
+                    "giaVe": 200000
+                  }
+                ],
+                "maPhim": 8181,
+                "tenPhim": "Vacation With Friends Benefits ",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/vacation-friends_gp01.jpg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 45384,
+                    "maRap": "772",
+                    "tenRap": "Rạp 2",
+                    "ngayChieuGioChieu": "2022-09-16T08:20:52",
+                    "giaVe": 120000
+                  }
+                ],
+                "maPhim": 10092,
+                "tenPhim": "SurrealDB",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/surrealdb_gp01.png",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 45917,
+                    "maRap": "778",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2022-11-01T11:11:11",
+                    "giaVe": 95000
+                  }
+                ],
+                "maPhim": 10378,
+                "tenPhim": "The dark super knight 22",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/dog-va-cat_gp01.jpg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 46225,
+                    "maRap": "771",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2023-12-22T01:15:47",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 11278,
+                "tenPhim": "wednesday",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/wednesday_gp01.jpg",
+                "hot": true,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 46587,
+                    "maRap": "776",
+                    "tenRap": "Rạp 6",
+                    "ngayChieuGioChieu": "2023-03-02T09:09:09",
+                    "giaVe": 120000
+                  }
+                ],
+                "maPhim": 11910,
+                "tenPhim": "FastFurious9",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/fastfurious9_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": false
+              }
+            ],
+            "maCumRap": "glx-nguyen-van-qua",
+            "tenCumRap": "GLX - Nguyễn Văn Quá",
+            "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+            "diaChi": "119B Nguyễn Văn Quá, Đông Hưng Thuận, Q.12, TPHCM"
+          },
+          {
+            "danhSachPhim": [
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 43453,
+                    "maRap": "765",
+                    "tenRap": "Rạp 5",
+                    "ngayChieuGioChieu": "2021-07-04T20:20:00",
+                    "giaVe": 90000
+                  },
+                  {
+                    "maLichChieu": 43455,
+                    "maRap": "765",
+                    "tenRap": "Rạp 5",
+                    "ngayChieuGioChieu": "2021-07-05T20:20:00",
+                    "giaVe": 90000
+                  },
+                  {
+                    "maLichChieu": 43456,
+                    "maRap": "765",
+                    "tenRap": "Rạp 5",
+                    "ngayChieuGioChieu": "2021-07-07T18:10:00",
+                    "giaVe": 90000
+                  }
+                ],
+                "maPhim": 1314,
+                "tenPhim": "Black Windo",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/black-windo_gp01.jpg",
+                "hot": false,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 40279,
+                    "maRap": "767",
+                    "tenRap": "Rạp 7",
+                    "ngayChieuGioChieu": "2017-05-16T02:30:00",
+                    "giaVe": 78000
+                  }
+                ],
+                "maPhim": 1329,
+                "tenPhim": "Bố Già",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/bo-gia_gp01.jpg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 40569,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2020-12-22T15:00:00",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 1344,
+                "tenPhim": "Avenger Endgame 2",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/avenger-endgame_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 32347,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-01T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32348,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-01T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32349,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-01T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32350,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-01T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32351,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-01T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32352,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-01T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 43070,
+                    "maRap": "765",
+                    "tenRap": "Rạp 5",
+                    "ngayChieuGioChieu": "2021-05-27T19:10:22",
+                    "giaVe": 99000
+                  },
+                  {
+                    "maLichChieu": 32395,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-09T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32396,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-09T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32397,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-09T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32398,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-09T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32399,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-09T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32400,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-09T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32389,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-08T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32390,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-08T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32391,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-08T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32392,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-08T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32393,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-08T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32394,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-08T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32383,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-07T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32384,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-07T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32385,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-07T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32386,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-07T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32387,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-07T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32388,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-07T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32377,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-06T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32378,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-06T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32379,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-06T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32380,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-06T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32381,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-06T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32382,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-06T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32371,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-05T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32372,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-05T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32373,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-05T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32374,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-05T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32375,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-05T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32376,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-05T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32365,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-04T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32366,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-04T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32367,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-04T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32368,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-04T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32369,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-04T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32370,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-04T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32359,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-03T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32360,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-03T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32361,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-03T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32362,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-03T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32363,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-03T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32364,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-03T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32353,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-02T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32354,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-02T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32355,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-02T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32356,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-02T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32357,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-02T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 32358,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-02T20:10:00",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 1359,
+                "tenPhim": "AudioPhile",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/audiophile-43_gp01.jpg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 41348,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2021-01-07T17:30:00",
+                    "giaVe": 89000
+                  },
+                  {
+                    "maLichChieu": 43155,
+                    "maRap": "763",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2021-06-26T15:14:59",
+                    "giaVe": 99999
+                  }
+                ],
+                "maPhim": 1389,
+                "tenPhim": " Thiên Cổ Quyết Trần 1",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/thien-co-quyet-tran-1_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 42926,
+                    "maRap": "761",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2021-05-21T10:45:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 42927,
+                    "maRap": "762",
+                    "tenRap": "Rạp 2",
+                    "ngayChieuGioChieu": "2021-05-21T11:45:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 42928,
+                    "maRap": "763",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2021-05-21T12:30:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 42929,
+                    "maRap": "763",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2021-05-20T12:30:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 42930,
+                    "maRap": "764",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2021-05-20T13:30:00",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 1449,
+                "tenPhim": "True Detective 23",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/true-detective-23_gp01.jpg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 40270,
+                    "maRap": "763",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2020-03-04T12:00:00",
+                    "giaVe": 80000
+                  }
+                ],
+                "maPhim": 2603,
+                "tenPhim": "Minion",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/minion_gp01.jpg",
+                "hot": true,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 41971,
+                    "maRap": "761",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2021-02-23T07:00:00",
+                    "giaVe": 120000
+                  },
+                  {
+                    "maLichChieu": 41972,
+                    "maRap": "763",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2021-02-23T16:00:00",
+                    "giaVe": 120000
+                  }
+                ],
+                "maPhim": 5044,
+                "tenPhim": "Birds of Prey: Cuộc lột xác huy hoàng của Harley Quinn",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/birds-of-prey-cuoc-lot-xac-huy-hoang-cua-harley-quinn_gp01.jpeg",
+                "hot": false,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 41842,
+                    "maRap": "761",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2021-02-23T08:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41843,
+                    "maRap": "764",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2021-02-23T15:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 41844,
+                    "maRap": "765",
+                    "tenRap": "Rạp 5",
+                    "ngayChieuGioChieu": "2021-02-23T23:00:00",
+                    "giaVe": 80000
+                  },
+                  {
+                    "maLichChieu": 44429,
+                    "maRap": "770",
+                    "tenRap": "Rạp 10",
+                    "ngayChieuGioChieu": "2021-10-14T16:00:00",
+                    "giaVe": 80000
+                  }
+                ],
+                "maPhim": 5125,
+                "tenPhim": "Người Cần Quên Phải Nhớ 23",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/nguoi-can-quen-phai-nho_gp01.png",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 43127,
+                    "maRap": "763",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2021-06-18T16:36:00",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 5914,
+                "tenPhim": "vvvvvtttt",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/vvvvvtttt_gp01.png",
+                "hot": null,
+                "dangChieu": null,
+                "sapChieu": null
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 42161,
+                    "maRap": "765",
+                    "tenRap": "Rạp 5",
+                    "ngayChieuGioChieu": "2021-03-17T06:36:46",
+                    "giaVe": 95000
+                  },
+                  {
+                    "maLichChieu": 42162,
+                    "maRap": "762",
+                    "tenRap": "Rạp 2",
+                    "ngayChieuGioChieu": "2021-03-17T06:36:51",
+                    "giaVe": 95000
+                  },
+                  {
+                    "maLichChieu": 42163,
+                    "maRap": "762",
+                    "tenRap": "Rạp 2",
+                    "ngayChieuGioChieu": "2021-03-18T06:37:00",
+                    "giaVe": 95000
+                  }
+                ],
+                "maPhim": 5930,
+                "tenPhim": "Iron Man3",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/iron-man3_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 43137,
+                    "maRap": "763",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2021-06-13T01:02:00",
+                    "giaVe": 105000
+                  }
+                ],
+                "maPhim": 6378,
+                "tenPhim": "Doraemonnn",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/doraemonnn_gp01.jpg",
+                "hot": null,
+                "dangChieu": null,
+                "sapChieu": null
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 43124,
+                    "maRap": "763",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2021-06-10T01:49:00",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 6644,
+                "tenPhim": "Hurricanger",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/hurricanger_gp01.jpg",
+                "hot": true,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 43918,
+                    "maRap": "764",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2021-08-06T11:30:00",
+                    "giaVe": 80000
+                  }
+                ],
+                "maPhim": 7669,
+                "tenPhim": "LỢN",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/lon_gp01.jpeg",
+                "hot": null,
+                "dangChieu": null,
+                "sapChieu": null
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 44367,
+                    "maRap": "766",
+                    "tenRap": "Rạp 6",
+                    "ngayChieuGioChieu": "2021-10-06T04:46:44",
+                    "giaVe": 85000
+                  }
+                ],
+                "maPhim": 8322,
+                "tenPhim": "Ngôi đền kì quái 2",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/ngoi-den-ki-quai-2_gp01.png",
+                "hot": false,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 44375,
+                    "maRap": "765",
+                    "tenRap": "Rạp 5",
+                    "ngayChieuGioChieu": "2021-12-03T09:09:00",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 8334,
+                "tenPhim": "CHÌA KHÓA TRĂM TỶ",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/chia-khoa-tram-ty_gp01.jpg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 44415,
+                    "maRap": "763",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2021-10-30T04:02:35",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 8367,
+                "tenPhim": "sadf",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/sadf_gp01.jpg",
+                "hot": true,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 44684,
+                    "maRap": "761",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2020-12-12T12:12:00",
+                    "giaVe": 120000
+                  }
+                ],
+                "maPhim": 8370,
+                "tenPhim": "Canh Chim Dai Bang season3",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/fsdfsda_gp01.jpg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 44727,
+                    "maRap": "765",
+                    "tenRap": "Rạp 5",
+                    "ngayChieuGioChieu": "2022-03-25T09:03:59",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 8572,
+                "tenPhim": "Red Snake Dangerous",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/red-snake-dangerous_gp01.jpg",
+                "hot": true,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 44601,
+                    "maRap": "766",
+                    "tenRap": "Rạp 6",
+                    "ngayChieuGioChieu": "2022-01-05T12:30:15",
+                    "giaVe": 80000
+                  }
+                ],
+                "maPhim": 8586,
+                "tenPhim": "Onepiece Movie: Red",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/onepiece-movie-red_gp01.jpg",
+                "hot": true,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 44627,
+                    "maRap": "765",
+                    "tenRap": "Rạp 5",
+                    "ngayChieuGioChieu": "2022-01-12T09:45:11",
+                    "giaVe": 199999
+                  }
+                ],
+                "maPhim": 8693,
+                "tenPhim": "John Wick",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/john-wick_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 44637,
+                    "maRap": "768",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2022-01-25T05:29:17",
+                    "giaVe": 100000
+                  }
+                ],
+                "maPhim": 8706,
+                "tenPhim": "RỪNG THẾ MẠNG",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/rung-the-mang_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 45103,
+                    "maRap": "764",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2022-07-01T01:47:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 45104,
+                    "maRap": "762",
+                    "tenRap": "Rạp 2",
+                    "ngayChieuGioChieu": "2022-07-01T01:47:00",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 9083,
+                "tenPhim": "Thor: Love and Thunder1",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/thor-love-and-thunder_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 45155,
+                    "maRap": "761",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2022-08-03T07:41:18",
+                    "giaVe": 80000
+                  }
+                ],
+                "maPhim": 9366,
+                "tenPhim": "Nga 312",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/nga-312_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 45101,
+                    "maRap": "766",
+                    "tenRap": "Rạp 6",
+                    "ngayChieuGioChieu": "2022-07-30T05:45:01",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 9379,
+                "tenPhim": "DÂN CHƠI KHÔNG SỢ CON RƠI",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/dan-choi-khong-so-con-roi_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 45156,
+                    "maRap": "769",
+                    "tenRap": "Rạp 9",
+                    "ngayChieuGioChieu": "2022-08-27T08:00:59",
+                    "giaVe": 80000
+                  }
+                ],
+                "maPhim": 9428,
+                "tenPhim": "Conan",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/conan_gp01.jpg",
+                "hot": true,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 46557,
+                    "maRap": "767",
+                    "tenRap": "Rạp 7",
+                    "ngayChieuGioChieu": "2023-03-13T10:41:14",
+                    "giaVe": 90000
+                  }
+                ],
+                "maPhim": 11732,
+                "tenPhim": "dog",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/dog_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 46593,
+                    "maRap": "763",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2023-03-09T11:50:21",
+                    "giaVe": 80000
+                  }
+                ],
+                "maPhim": 11911,
+                "tenPhim": "FastFurious 91",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/fastfurious-9_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": false
+              }
+            ],
+            "maCumRap": "glx-nguyen-du\r\n",
+            "tenCumRap": "GLX - Nguyễn Du",
+            "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+            "diaChi": "116 Nguyễn Du, Q.1"
+          },
+          {
+            "danhSachPhim": [
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 42922,
+                    "maRap": "781",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2021-05-20T13:05:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 42923,
+                    "maRap": "782",
+                    "tenRap": "Rạp 2",
+                    "ngayChieuGioChieu": "2021-05-20T15:05:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 42924,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2021-05-20T20:05:00",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 1329,
+                "tenPhim": "Bố Già",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/bo-gia_gp01.jpg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 33157,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-01T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33158,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-01T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33159,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-01T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33160,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-01T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33161,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-01T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33162,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-01T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33205,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-09T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33206,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-09T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33207,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-09T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33208,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-09T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33209,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-09T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33210,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-09T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33199,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-08T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33200,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-08T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33201,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-08T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33202,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-08T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33203,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-08T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33204,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-08T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33193,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-07T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33194,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-07T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33195,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-07T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33196,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-07T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33197,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-07T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33198,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-07T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33187,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-06T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33188,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-06T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33189,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-06T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33190,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-06T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33191,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-06T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33192,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-06T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33181,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-05T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33182,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-05T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33183,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-05T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33184,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-05T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33185,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-05T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33186,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-05T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33175,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-04T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33176,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-04T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33177,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-04T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33178,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-04T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33179,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-04T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33180,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-04T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33169,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-03T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33170,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-03T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33171,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-03T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33172,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-03T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33173,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-03T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33174,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-03T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33163,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-02T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33164,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-02T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33165,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-02T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33166,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-02T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33167,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-02T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33168,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-02T20:10:00",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 1374,
+                "tenPhim": "Wrath Of Man - 2",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/wrath-of-man-2_gp01.jpeg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 43819,
+                    "maRap": "784",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2021-05-01T00:00:00",
+                    "giaVe": 120000
+                  }
+                ],
+                "maPhim": 1434,
+                "tenPhim": "Counter Strike 5",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/counter-strike-5_gp01.jpg",
+                "hot": true,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 42925,
+                    "maRap": "784",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2021-05-20T19:45:00",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 1449,
+                "tenPhim": "True Detective 23",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/true-detective-23_gp01.jpg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 42452,
+                    "maRap": "784",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2022-06-15T05:05:06",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 5964,
+                "tenPhim": "Red dead redemtion 2",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/red-dead-redemtion-2_gp01.jpg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 43112,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2021-06-08T20:57:00",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 5984,
+                "tenPhim": "Duy Anh Đẹp Trai",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/duy-anh-dep-trai_gp01.JPG",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 42393,
+                    "maRap": "783",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2021-05-03T06:06:00",
+                    "giaVe": 80000
+                  }
+                ],
+                "maPhim": 6018,
+                "tenPhim": "hành tinh hỗn loạn",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/hanh-tinh-hon-loan_gp01.jpg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 42419,
+                    "maRap": "788",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2021-03-30T12:05:30",
+                    "giaVe": 100000
+                  }
+                ],
+                "maPhim": 6019,
+                "tenPhim": "palm spring",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/palm-spring_gp01.jpg",
+                "hot": true,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 42445,
+                    "maRap": "785",
+                    "tenRap": "Rạp 5",
+                    "ngayChieuGioChieu": "2022-04-30T05:10:15",
+                    "giaVe": 85000
+                  }
+                ],
+                "maPhim": 6023,
+                "tenPhim": "Justice Luege",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/justice-luege_gp01.jpg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 42682,
+                    "maRap": "787",
+                    "tenRap": "Rạp 7",
+                    "ngayChieuGioChieu": "2021-03-24T12:08:44",
+                    "giaVe": 90000
+                  }
+                ],
+                "maPhim": 6029,
+                "tenPhim": "Con Bò Xanh",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/con-bo-xanh_gp01.jpg",
+                "hot": false,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 43762,
+                    "maRap": "785",
+                    "tenRap": "Rạp 5",
+                    "ngayChieuGioChieu": "2021-07-15T10:52:56",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 7320,
+                "tenPhim": "a",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/a_gp01.jpeg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 43911,
+                    "maRap": "788",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2021-08-01T10:45:00",
+                    "giaVe": 90000
+                  }
+                ],
+                "maPhim": 7669,
+                "tenPhim": "LỢN",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/lon_gp01.jpeg",
+                "hot": null,
+                "dangChieu": null,
+                "sapChieu": null
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 44604,
+                    "maRap": "784",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2021-11-25T02:10:00",
+                    "giaVe": 95000
+                  }
+                ],
+                "maPhim": 8659,
+                "tenPhim": "smash me3",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/smash-me_gp01.jpg",
+                "hot": true,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 45128,
+                    "maRap": "784",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2022-08-01T11:59:00",
+                    "giaVe": 80000
+                  }
+                ],
+                "maPhim": 9360,
+                "tenPhim": "testsubject6789321",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/testsubject6789321_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 45341,
+                    "maRap": "782",
+                    "tenRap": "Rạp 2",
+                    "ngayChieuGioChieu": "2022-09-13T10:06:50",
+                    "giaVe": 90000
+                  }
+                ],
+                "maPhim": 9949,
+                "tenPhim": "zalo",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/zalo_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              }
+            ],
+            "maCumRap": "glx-pham-van-chi",
+            "tenCumRap": "GLX - Phạm Văn Chí",
+            "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+            "diaChi": "Lầu 5, TTTM Platinum Plaza, 634 Phạm Văn Chí, Q.6"
+          },
+          {
+            "danhSachPhim": [
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 42920,
+                    "maRap": "793",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2021-05-20T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 42921,
+                    "maRap": "794",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2021-05-20T13:05:00",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 1329,
+                "tenPhim": "Bố Già",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/bo-gia_gp01.jpg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 33967,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-01T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33968,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-01T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33969,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-01T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33970,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-01T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33971,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-01T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33972,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-01T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 43048,
+                    "maRap": "794",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2021-05-31T18:01:34",
+                    "giaVe": 88000
+                  },
+                  {
+                    "maLichChieu": 34015,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-09T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34016,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-09T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34017,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-09T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34018,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-09T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34019,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-09T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34020,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-09T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34009,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-08T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34010,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-08T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34011,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-08T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34012,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-08T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34013,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-08T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34014,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-08T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34003,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-07T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34004,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-07T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34005,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-07T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34006,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-07T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34007,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-07T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34008,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-07T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33997,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-06T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33998,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-06T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33999,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-06T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34000,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-06T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34001,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-06T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34002,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-06T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33991,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-05T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33992,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-05T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33993,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-05T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33994,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-05T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33995,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-05T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33996,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-05T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33985,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-04T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33986,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-04T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33987,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-04T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33988,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-04T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33989,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-04T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33990,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-04T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33979,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-03T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33980,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-03T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33981,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-03T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33982,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-03T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33983,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-03T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33984,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-03T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33973,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-02T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33974,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-02T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33975,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-02T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33976,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-02T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33977,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-02T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 33978,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2019-01-02T20:10:00",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 1389,
+                "tenPhim": " Thiên Cổ Quyết Trần 1",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/thien-co-quyet-tran-1_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 42918,
+                    "maRap": "791",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2021-05-20T13:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 42919,
+                    "maRap": "792",
+                    "tenRap": "Rạp 2",
+                    "ngayChieuGioChieu": "2021-05-20T14:10:00",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 1449,
+                "tenPhim": "True Detective 23",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/true-detective-23_gp01.jpg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 40576,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2020-09-10T15:00:00",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 4332,
+                "tenPhim": "Narutooô",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/narutooo_gp01.jpg",
+                "hot": true,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 42035,
+                    "maRap": "791",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2021-02-23T08:00:00",
+                    "giaVe": 90000
+                  },
+                  {
+                    "maLichChieu": 42036,
+                    "maRap": "793",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2021-02-23T12:00:00",
+                    "giaVe": 90000
+                  },
+                  {
+                    "maLichChieu": 42037,
+                    "maRap": "795",
+                    "tenRap": "Rạp 5",
+                    "ngayChieuGioChieu": "2021-02-23T16:00:00",
+                    "giaVe": 90000
+                  }
+                ],
+                "maPhim": 5104,
+                "tenPhim": "How To Train Your Dragon",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/how-to-train-your-dragon_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 42088,
+                    "maRap": "797",
+                    "tenRap": "Rạp 7",
+                    "ngayChieuGioChieu": "2021-03-03T21:17:42",
+                    "giaVe": 90000
+                  }
+                ],
+                "maPhim": 5748,
+                "tenPhim": "Vợ ba",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/vo-ba_gp01.jpg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 42458,
+                    "maRap": "798",
+                    "tenRap": "Rạp 8",
+                    "ngayChieuGioChieu": "2022-06-15T05:05:06",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 5964,
+                "tenPhim": "Red dead redemtion 2",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/red-dead-redemtion-2_gp01.jpg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 42473,
+                    "maRap": "794",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2021-03-22T23:34:00",
+                    "giaVe": 80000
+                  }
+                ],
+                "maPhim": 5984,
+                "tenPhim": "Duy Anh Đẹp Trai",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/duy-anh-dep-trai_gp01.JPG",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 43138,
+                    "maRap": "793",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2021-06-16T05:04:00",
+                    "giaVe": 95000
+                  }
+                ],
+                "maPhim": 6378,
+                "tenPhim": "Doraemonnn",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/doraemonnn_gp01.jpg",
+                "hot": null,
+                "dangChieu": null,
+                "sapChieu": null
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 44151,
+                    "maRap": "793",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2021-08-17T02:13:25",
+                    "giaVe": 80000
+                  }
+                ],
+                "maPhim": 7822,
+                "tenPhim": "Wonder Woman 1",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/wonder-woman-2_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 44679,
+                    "maRap": "792",
+                    "tenRap": "Rạp 2",
+                    "ngayChieuGioChieu": "2022-02-10T10:10:10",
+                    "giaVe": 100000
+                  }
+                ],
+                "maPhim": 8225,
+                "tenPhim": "The Boss Baby: Back in Business – Season 3",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/the-boss-baby-back-in-business-–-season-3_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 45277,
+                    "maRap": "793",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2022-11-30T15:00:00",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 9768,
+                "tenPhim": "The liar and his lover Side Story",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/the-liar-and-his-lover-side-story_gp01.jpg",
+                "hot": false,
+                "dangChieu": true,
+                "sapChieu": false
+              }
+            ],
+            "maCumRap": "glx-quang-trung",
+            "tenCumRap": "GLX - Quang Trung",
+            "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+            "diaChi": "L3-Co.opmart Foodcosa, 304A Quang Trung, Gò Vấp"
+          },
+          {
+            "danhSachPhim": [
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 43805,
+                    "maRap": "805",
+                    "tenRap": "Rạp 5",
+                    "ngayChieuGioChieu": "2021-07-22T16:24:00",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 1344,
+                "tenPhim": "Avenger Endgame 2",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/avenger-endgame_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 40748,
+                    "maRap": "801",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2020-01-22T04:30:00",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 4643,
+                "tenPhim": "Ròm 2020",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/rom-2020_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 44152,
+                    "maRap": "806",
+                    "tenRap": "Rạp 6",
+                    "ngayChieuGioChieu": "2021-08-17T02:17:14",
+                    "giaVe": 85000
+                  }
+                ],
+                "maPhim": 7822,
+                "tenPhim": "Wonder Woman 1",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/wonder-woman-2_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 45002,
+                    "maRap": "805",
+                    "tenRap": "Rạp 5",
+                    "ngayChieuGioChieu": "2022-05-12T18:30:42",
+                    "giaVe": 100000
+                  }
+                ],
+                "maPhim": 8673,
+                "tenPhim": "Spider Man - No Way Home 3",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/spider-man-no-way-home-3_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": false
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 47158,
+                    "maRap": "801",
+                    "tenRap": "Rạp 1",
+                    "ngayChieuGioChieu": "2023-08-25T12:00:00",
+                    "giaVe": 200000
+                  }
+                ],
+                "maPhim": 12819,
+                "tenPhim": "Machikado Mazoku Season 2",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/machikado-mazoku-season-2_gp01.jpg",
+                "hot": true,
+                "dangChieu": false,
+                "sapChieu": false
+              }
+            ],
+            "maCumRap": "glx-tan-binh",
+            "tenCumRap": "GLX - Tân Bình",
+            "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+            "diaChi": "246 Nguyễn Hồng Đào, Tân Bình"
+          },
+          {
+            "danhSachPhim": [
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 34777,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-01T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34778,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-01T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34779,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-01T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34780,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-01T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34781,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-01T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34782,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-01T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34825,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-09T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34826,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-09T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34827,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-09T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34828,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-09T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34829,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-09T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34830,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-09T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34819,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-08T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34820,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-08T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34821,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-08T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34822,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-08T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34823,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-08T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34824,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-08T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34813,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-07T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34814,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-07T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34815,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-07T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34816,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-07T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34817,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-07T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34818,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-07T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34807,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-06T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34808,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-06T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34809,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-06T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34810,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-06T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34811,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-06T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34812,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-06T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34801,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-05T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34802,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-05T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34803,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-05T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34804,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-05T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34805,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-05T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34806,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-05T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34795,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-04T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34796,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-04T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34797,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-04T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34798,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-04T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34799,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-04T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34800,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-04T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34789,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-03T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34790,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-03T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34791,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-03T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34792,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-03T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34793,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-03T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34794,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-03T20:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34783,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-02T10:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34784,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-02T12:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34785,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-02T14:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34786,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-02T16:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34787,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-02T18:10:00",
+                    "giaVe": 75000
+                  },
+                  {
+                    "maLichChieu": 34788,
+                    "maRap": "813",
+                    "tenRap": "Rạp 3",
+                    "ngayChieuGioChieu": "2019-01-02T20:10:00",
+                    "giaVe": 75000
+                  }
+                ],
+                "maPhim": 1404,
+                "tenPhim": "Siêu nhân",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/sieu-nhan_gp01.jpg",
+                "hot": true,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 40781,
+                    "maRap": "812",
+                    "tenRap": "Rạp 2",
+                    "ngayChieuGioChieu": "2020-11-12T10:58:00",
+                    "giaVe": 120000
+                  }
+                ],
+                "maPhim": 4592,
+                "tenPhim": "Hãy Trao Cho Anh",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/hay-trao-cho-anh_gp01.jpg",
+                "hot": true,
+                "dangChieu": false,
+                "sapChieu": true
+              },
+              {
+                "lstLichChieuTheoPhim": [
+                  {
+                    "maLichChieu": 44633,
+                    "maRap": "814",
+                    "tenRap": "Rạp 4",
+                    "ngayChieuGioChieu": "2022-01-19T09:30:11",
+                    "giaVe": 100000
+                  }
+                ],
+                "maPhim": 8706,
+                "tenPhim": "RỪNG THẾ MẠNG",
+                "hinhAnh": "https://movienew.cybersoft.edu.vn/hinhanh/rung-the-mang_gp01.jpg",
+                "hot": true,
+                "dangChieu": true,
+                "sapChieu": true
+              }
+            ],
+            "maCumRap": "glx-trung-chanh",
+            "tenCumRap": "GLX - Trung Chánh",
+            "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+            "diaChi": "TTVH Q12 – 09, Q L 22, Trung Mỹ Tây , Q.12"
+          }
+        ],
+        "maHeThongRap": "Galaxy",
+        "tenHeThongRap": "Galaxy Cinema",
+        "logo": "https://movienew.cybersoft.edu.vn/hinhanh/galaxy-cinema.png",
+        "mahom": "GP01"
+      }
+    ],
+    "dateTime": "2023-09-06T00:38:25.1945923+07:00",
+    "messageConstants": null
+  }

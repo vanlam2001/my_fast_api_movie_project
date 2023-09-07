@@ -6,9 +6,12 @@ from passlib.context import CryptContext
 class UserInfo(BaseModel):
     username: str
     password: str
+    confirm_password: str
     phone_number: str
     email: str
     full_name: str
+    maLoaiNguoiDung: Optional[str]
+    tenLoai: Optional[str]
 
 class UserType(BaseModel):
     maLoaiNguoiDung: str
@@ -23,6 +26,11 @@ class User_Info_Type(BaseModel):
     maLoaiNguoiDung: Optional[str]
     tenLoai: Optional[str]
 
+class Update_User(BaseModel):
+    password: str
+    phone_number: str
+    email: str
+    full_name: str
 
 
 class HashedPassword:
