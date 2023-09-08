@@ -12,9 +12,7 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:5173",
         "http://localhost:3000",
-        "https://admin-movie-project-fastapi-d865foxn1-vanlam2001.vercel.app",
-        "https://admin-movie-project-fastapi.vercel.app/",
-        "https://admin-movie-project-fastapi-q11dv8m4f-vanlam2001.vercel.app/"
+        "https://admin-movie-project-fastapi-6jndrflm6-vanlam2001.vercel.app"
         ],  # Thay bằng địa chỉ của ứng dụng React của bạn
     allow_credentials=True,
     allow_methods=["*"],
