@@ -11,7 +11,8 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:5173",
-        "http://localhost:3000"
+        "http://localhost:3000",
+        "https://admin-movie-fast-api.vercel.app"
         ],  # Thay bằng địa chỉ của ứng dụng React của bạn
     allow_credentials=True,
     allow_methods=["*"],
