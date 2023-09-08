@@ -1,4 +1,4 @@
-from fastapi import APIRouter, Depends, HTTPException, Header
+from fastapi import APIRouter, Depends, HTTPException, status
 from motor.motor_asyncio import AsyncIOMotorClient
 from ..models.register import UserInfo, UserType, User_Info_Type, Update_User
 from ..models.login import UserLogin
@@ -72,6 +72,43 @@ async def login(user_login: UserLogin,token: str = Depends(get_token_authorizati
     # Xác thực mật khẩu 
     if not verify_password(password, hashed_password):
         raise HTTPException(status_code=404, detail="Không tìm thấy tài nguyên")
+    
+    # Xác thực thành công, trả về thông tin tài khoản
+    user_info = {
+        "username": user_data["username"],
+        "password": user_data["password"],
+        "phone_number": user_data["phone_number"],
+        "email": user_data["email"],
+        "full_name": user_data["full_name"],
+        "maLoaiNguoiDung": user_data["maLoaiNguoiDung"],
+        "tenLoai": user_data["tenLoai"],
+        "message": "Đăng nhập thành công"
+    }
+
+    return user_info
+
+
+@router.post("/api/Dang-nhap/bang-dieu-khien", tags=[tags_auth])
+async def login(user_login: UserLogin,token: str = Depends(get_token_authorization), db: AsyncIOMotorClient = Depends(get_database)):
+    username = user_login.username
+    password = user_login.passwords
+    
+
+    # Tìm người dùng trong databases 
+    user_data = await db.users.find_one({"username": username})
+    if user_data is None:
+        raise HTTPException(status_code=404, detail="Không tìm thấy tài nguyên")
+    hashed_password = user_data["password"]
+    
+
+    # Xác thực mật khẩu 
+    if not verify_password(password, hashed_password):
+        raise HTTPException(status_code=404, detail="Không tìm thấy tài nguyên")
+    
+    # Kiểm tra quyền truy cập của người dùng
+    maLoaiNguoiDung = user_data.get("maLoaiNguoiDung", "")
+    if maLoaiNguoiDung != "quantri":
+        raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail="Không có quyền truy cập")
     
     # Xác thực thành công, trả về thông tin tài khoản
     user_info = {
