@@ -1,6 +1,6 @@
 from fastapi import APIRouter, Depends, HTTPException, Query
 from motor.motor_asyncio import AsyncIOMotorClient
-from ..models.thong_tin_ve import MovieInfoAndSeats, maLichChieu, taoLichChieu, UpdateLichChieu
+from ..models.thong_tin_ve import MovieInfoAndSeats,  taoLichChieu, UpdateLichChieu
 from ..utils.db import get_database
 from ..utils.security import get_token_authorization
 from typing import List
@@ -11,17 +11,7 @@ router = APIRouter()
 tags_ve = "Quản lý đặt vé"
 
 
-# Quản lý danh sách vé 
-@router.post("/api/Dat-ve" , tags=[tags_ve])
-async def create_ve_list(ve: maLichChieu, token: str = Depends(get_token_authorization) ,db: AsyncIOMotorClient = Depends(get_database)):
-    collection = db['danh_sach_dat_ve']
-    rap_data = ve.dict()
-    result = await collection.insert_one(rap_data)
 
-    if result:
-        return {"message": "Đã tạo vé thành công", "ve_id": str(result.inserted_id)}
-    else:
-        raise HTTPException(status_code=500, detail="Không thể tạo rạp")
 
 
 
